@@ -4,5 +4,8 @@ Implemented in PyTorch.
 Used dataset : UT Zappos50K - https://vision.cs.utexas.edu/projects/finegrained/utzap50k/  
 #
 ![model_example_output](https://github.com/marseller/Shoe-sole-segmentation/assets/54594235/c0119db2-af6c-4408-9eb9-4bf93f119e73)
+#
+![output](https://github.com/marseller/Shoe-sole-segmentation/assets/54594235/0d6ed52b-bda2-489d-ac49-7a51594b7c4f)
+
 
 
